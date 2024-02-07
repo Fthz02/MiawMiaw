@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Salam Ichikiwir</h1>
+    <h1>Salam Ichikiwir konci motor</h1>
 </body>
 </html>
