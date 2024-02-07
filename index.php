@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Salam Ichikiwir konci motor</h1>
+    <h2> Aselole Salam dari binjai</h2>
 </body>
 </html>
